@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a developer passionate about open-source and building tools that make life easier. Based in 🇧🇩 Bangladesh, I spend my time exploring new frameworks and contributing to the dev community. Let's build something cool together!
+I’m a developer passionate about open-source and building tools that make life easier. Based in Bangladesh, I spend my time exploring new frameworks and contributing to the dev community. Let's build something cool together!
 
 
 ## 🌐 Socials:
